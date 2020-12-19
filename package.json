@@ -1,0 +1,16 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -w assets/scss/style.scss -o assets/css"
+  },
+  "author": "",
+  "license": "ISC"
+}
